@@ -12,7 +12,7 @@ Welcome to the Vyazmaundry project, a Telegram bot designed to streamline the la
 
 ## Installation
 
-To set up the Laundry Bot locally, follow these steps:
+To set up the Vyazmaundry locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
@@ -43,7 +43,7 @@ To set up the Laundry Bot locally, follow these steps:
 
 ## Usage
 
-To interact with the Laundry Bot, follow these steps:
+To interact with the Vyazmaundry, follow these steps:
 
 1. **Start the bot:**
    - Search for "LaundryBot" in Telegram or use the direct link provided by the bot administrator.
@@ -62,7 +62,7 @@ To interact with the Laundry Bot, follow these steps:
 
 ## Contributing
 
-We welcome contributions to improve the Laundry Bot. If you'd like to contribute, please follow these steps:
+We welcome contributions to improve the Vyazmaundry. If you'd like to contribute, please follow these steps:
 
 1. **Fork the repository.**
 2. **Create a new branch:** `git checkout -b feature/your-feature-name`
@@ -76,4 +76,4 @@ For any questions or feedback, please contact the project maintainer at [nkggupt
 
 ---
 
-Thank you for using the Laundry Bot! We hope it helps to make your laundry experience at Vyazemsky dormitory more convenient and efficient.
+Thank you for using the Vyazmaundry! We hope it helps to make your laundry experience at Vyazemsky dormitory more convenient and efficient.
